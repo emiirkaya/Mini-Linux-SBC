@@ -30,8 +30,16 @@ System Specifications:
 
 <img width="903" height="653" alt="image" src="https://github.com/user-attachments/assets/1e01e1f7-d615-4384-bcf0-7e4c313ddb1f" />
 
+PCB STACKUP : SIG-GND-SIG-GND-SIG-GND-GND-SIG
+
+TOP LAYER
+
 <img width="791" height="776" alt="image" src="https://github.com/user-attachments/assets/de737390-ffef-43b8-96f7-07262b3cbd9d" />
 
+BOTTOM LAYER
+
 <img width="787" height="772" alt="image" src="https://github.com/user-attachments/assets/19ec902a-e091-4513-bbe1-0288d0584ac3" />
+
+INNER LAYER 2
 
 <img width="791" height="772" alt="image" src="https://github.com/user-attachments/assets/738c95e5-e480-4af3-9291-228d738a14b2" />
