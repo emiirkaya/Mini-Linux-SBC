@@ -9,22 +9,24 @@ System Specifications:
 * SD Card, 2xUSBA, 24RGN TFT LCD Interfaces
 * 5V3A USB-C Powered
 * PCB Stackup : SIG-GND-SIG-GND-GND-SIG-GND-SIG    
+
+
+## PCB 3D View
+
+<img width="1899" height="882" alt="image" src="https://github.com/user-attachments/assets/de8d4e20-d4c8-42f2-9c38-35eef785c0a7" />
+
+<img width="1899" height="882" alt="image" src="https://github.com/user-attachments/assets/57a74cef-d925-4929-a6d1-eb4aa15ec4cf" />
+
 ## SCHEMATICS
 
 Bluetooth & Wi-Fi Transceivers
 
-<img width="1899" height="882" alt="image" src="https://github.com/user-attachments/assets/de8d4e20-d4c8-42f2-9c38-35eef785c0a7" />
-
-Bluetooth & Wi-Fi Chip Antennas
-
-<img width="1899" height="882" alt="image" src="https://github.com/user-attachments/assets/57a74cef-d925-4929-a6d1-eb4aa15ec4cf" />
-
-
 <img width="1822" height="847" alt="image" src="https://github.com/user-attachments/assets/eb51d506-b2cc-4694-9d25-243540f3047c" />
+
+Bluetooth & Wi-Fi Chip Antennas & SD Card and TFT LCD Interface
 
 <img width="1272" height="808" alt="image" src="https://github.com/user-attachments/assets/322f5932-2740-4403-939d-aec36aeac8d1" />
 
-<img width="903" height="650" alt="image" src="https://github.com/user-attachments/assets/21cd84b3-139e-4b8f-9106-156084e63031" />
 
 <img width="600" height="812" alt="image" src="https://github.com/user-attachments/assets/72c3db18-e5b9-4e0b-adeb-49df41e8ca46" />
 
