@@ -53,3 +53,7 @@ Bottom Layer
 Inner Layer 2
 
 <img width="791" height="772" alt="image" src="https://github.com/user-attachments/assets/738c95e5-e480-4af3-9291-228d738a14b2" />
+
+Inner Layer 4
+<img width="742" height="722" alt="image" src="https://github.com/user-attachments/assets/afb2f822-6c7a-48ca-a8dd-78ac54e4e48d" />
+
