@@ -27,30 +27,29 @@ Bluetooth & Wi-Fi Chip Antennas & SD Card and TFT LCD Interface
 
 <img width="1272" height="808" alt="image" src="https://github.com/user-attachments/assets/322f5932-2740-4403-939d-aec36aeac8d1" />
 
+Power Stages
 
 <img width="600" height="812" alt="image" src="https://github.com/user-attachments/assets/72c3db18-e5b9-4e0b-adeb-49df41e8ca46" />
 
-
-<img width="1827" height="832" alt="image" src="https://github.com/user-attachments/assets/25653997-3a33-40dc-a768-d3c0106df470" />
-
 MPU & DDR3 RAM
+<img width="1827" height="832" alt="image" src="https://github.com/user-attachments/assets/25653997-3a33-40dc-a768-d3c0106df470" />
 
 <img width="1802" height="837" alt="image" src="https://github.com/user-attachments/assets/a5b43b5e-8959-454c-b198-5067f4312025" />
 
-ST-LINK & USB PERIPHERALS
+ST-LINK & USB Peripherals
 
 <img width="903" height="653" alt="image" src="https://github.com/user-attachments/assets/1e01e1f7-d615-4384-bcf0-7e4c313ddb1f" />
 
 ## LAYOUT
 
-TOP LAYER
+Top Layer
 
 <img width="791" height="776" alt="image" src="https://github.com/user-attachments/assets/de737390-ffef-43b8-96f7-07262b3cbd9d" />
 
-BOTTOM LAYER
+Bottom Layer
 
 <img width="787" height="772" alt="image" src="https://github.com/user-attachments/assets/19ec902a-e091-4513-bbe1-0288d0584ac3" />
 
-INNER LAYER 2
+Inner Layer 2
 
 <img width="791" height="772" alt="image" src="https://github.com/user-attachments/assets/738c95e5-e480-4af3-9291-228d738a14b2" />
