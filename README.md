@@ -1,5 +1,13 @@
 # Mini-Linux-SBC
-8 Layer 50x50mm PCB containing STM32MP157 that runs 4Gb Linux OS
+8 Layer 50x50mm PCB containing STM32MP157 integrated GPU that runs 4Gb RAM Linux OS
+
+System Specifications:
+
+* 800MHz STM32MP157 SoC, K4B4G1646E-BYMA 4Gb RAM
+* 2.4Ghz & 5.5Ghz dual band chip antennas for Wi-Fi & Bluetooth using NRF51822 & NRF7002
+* SD Card, 2xUSBA, 24RGN TFT LCD Interfaces
+* 5V3A USB-C Powered
+    
 
 <img width="1899" height="882" alt="image" src="https://github.com/user-attachments/assets/de8d4e20-d4c8-42f2-9c38-35eef785c0a7" />
 
@@ -15,6 +23,7 @@
 <img width="600" height="812" alt="image" src="https://github.com/user-attachments/assets/72c3db18-e5b9-4e0b-adeb-49df41e8ca46" />
 
 
+<img width="1827" height="832" alt="image" src="https://github.com/user-attachments/assets/25653997-3a33-40dc-a768-d3c0106df470" />
 
 
 <img width="1802" height="837" alt="image" src="https://github.com/user-attachments/assets/a5b43b5e-8959-454c-b198-5067f4312025" />
