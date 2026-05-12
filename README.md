@@ -3,13 +3,19 @@
 
 System Specifications:
 
+
 * 800MHz STM32MP157 SoC, K4B4G1646E-BYMA 4Gb RAM
 * 2.4Ghz & 5.5Ghz dual band chip antennas for Wi-Fi & Bluetooth using NRF51822 & NRF7002
 * SD Card, 2xUSBA, 24RGN TFT LCD Interfaces
 * 5V3A USB-C Powered
-    
+* PCB Stackup : SIG-GND-SIG-GND-GND-SIG-GND-SIG    
+## SCHEMATICS
+
+Bluetooth & Wi-Fi Transceivers
 
 <img width="1899" height="882" alt="image" src="https://github.com/user-attachments/assets/de8d4e20-d4c8-42f2-9c38-35eef785c0a7" />
+
+Bluetooth & Wi-Fi Chip Antennas
 
 <img width="1899" height="882" alt="image" src="https://github.com/user-attachments/assets/57a74cef-d925-4929-a6d1-eb4aa15ec4cf" />
 
@@ -25,12 +31,15 @@ System Specifications:
 
 <img width="1827" height="832" alt="image" src="https://github.com/user-attachments/assets/25653997-3a33-40dc-a768-d3c0106df470" />
 
+MPU & DDR3 RAM
 
 <img width="1802" height="837" alt="image" src="https://github.com/user-attachments/assets/a5b43b5e-8959-454c-b198-5067f4312025" />
 
+ST-LINK & USB PERIPHERALS
+
 <img width="903" height="653" alt="image" src="https://github.com/user-attachments/assets/1e01e1f7-d615-4384-bcf0-7e4c313ddb1f" />
 
-PCB STACKUP : SIG-GND-SIG-GND-SIG-GND-GND-SIG
+## LAYOUT
 
 TOP LAYER
 
